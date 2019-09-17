@@ -17,12 +17,11 @@ This can also be used to demo ipynb-file rendering on github (subdirectory
 
 Examples:
 
-* 1-basics: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fangohr/jupyter-demo/master?filepath=1-basics.ipynb)
+* 1-basics.ipynb: ([static rendering on github](1-basics.ipynb)), ([Interactive execution on Binder ![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fangohr/jupyter-demo/master?filepath=1-basics.ipynb))
 
-* 2-widgets: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fangohr/jupyter-demo/master?filepath=2-widgets.ipynb)
+* 2-widgets:([static rendering on github](2-widgets.ipynb)), ([interactive execution on Binder ![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fangohr/jupyter-demo/master?filepath=2-widgets.ipynb))
 
 Hans Fangohr, 28 December 2018
 
 Update September 2019: The manuscript *Data exploration and analysis
-with Jupyter notebooks* has a reference to the [2-widgets.ipynb
-example]!(https://mybinder.org/v2/gh/fangohr/jupyter-demo/master?filepath=2-widgets.ipynb).
+with Jupyter notebooks* has a reference to the `2-widgets.ipynb` notebook ([static rendering on github](2-widgets.ipynb), [interactive execution on Binder](https://mybinder.org/v2/gh/fangohr/jupyter-demo/master?filepath=2-widgets.ipynb)).
