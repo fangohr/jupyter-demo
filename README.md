@@ -3,7 +3,7 @@
 Most recent version of this repository is located at
 https://github.com/fangohr/jupyter-demo
 
-# Jupyter noteboo demo repository
+# Jupyter notebook demo repository
 
 Introducing basics of Jupyter Notebook (intended to be used in
 presentation / chat).
