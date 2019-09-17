@@ -25,4 +25,4 @@ Hans Fangohr, 28 December 2018
 
 Update September 2019: The manuscript *Data exploration and analysis
 with Jupyter notebooks* has a reference to the [2-widgets.ipynb
-example]!(https://mybinder.org/v2/gh/fangohr/jupyter-demo/master?filepath=2-widgets.ipynb).
+example](https://mybinder.org/v2/gh/fangohr/jupyter-demo/master?filepath=2-widgets.ipynb).
