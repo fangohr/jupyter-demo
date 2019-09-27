@@ -1,4 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fangohr/jupyter-demo/master)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3463132.svg)](https://doi.org/10.5281/zenodo.3463132)
 
 Most recent version of this repository is located at
 https://github.com/fangohr/jupyter-demo
