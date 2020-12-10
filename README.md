@@ -27,5 +27,8 @@ Hans Fangohr, 28 December 2018
 
 ## Data exploration and analysis with Jupyter notebooks
 
-Update September 2019: The manuscript *Data exploration and analysis
-with Jupyter notebooks* has a reference to the `2-widgets.ipynb` notebook ([static rendering on github](executed-notebooks/2-widgets-executed.ipynb), [interactive execution on Binder](https://mybinder.org/v2/gh/fangohr/jupyter-demo/master?filepath=2-widgets.ipynb)).
+Update September 2019: The paper 
+
+H. Fangohr et al., [Data exploration and analysis with Jupyter notebooks](http://accelconf.web.cern.ch/icalepcs2019/papers/tucpr02.pdf),  in Proc. ICALEPCS'19, New York, NY, USA, [Oct. 2019, pp. 799-806.](http://accelconf.web.cern.ch/icalepcs2019/doi/JACoW-ICALEPCS2019-TUCPR02.html) doi:10.18429/JACoW-ICALEPCS2019-TUCPR02 (2020)
+
+has a reference to the `2-widgets.ipynb` notebook ([static rendering on github](executed-notebooks/2-widgets-executed.ipynb), [interactive execution on Binder](https://mybinder.org/v2/gh/fangohr/jupyter-demo/master?filepath=2-widgets.ipynb)).
