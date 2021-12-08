@@ -1,8 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fangohr/jupyter-demo/master)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3463132.svg)](https://doi.org/10.5281/zenodo.3463132)
 
-Most recent version of this repository is located at
-https://github.com/fangohr/jupyter-demo
+To execute the example notebooks interactively in your browser, [Start Binder by clicking here](https://mybinder.org/v2/gh/fangohr/jupyter-demo/master), then open the notebook files (`1-basics.ipynb` or `2-widgets.ipynb`).
 
 # Jupyter notebook demo repository
 
@@ -32,3 +31,7 @@ Update September 2019: The paper
 H. Fangohr et al., [Data exploration and analysis with Jupyter notebooks](http://accelconf.web.cern.ch/icalepcs2019/papers/tucpr02.pdf),  in Proc. ICALEPCS'19, New York, NY, USA, [Oct. 2019, pp. 799-806.](http://accelconf.web.cern.ch/icalepcs2019/doi/JACoW-ICALEPCS2019-TUCPR02.html) doi:10.18429/JACoW-ICALEPCS2019-TUCPR02 (2020)
 
 has a reference to the `2-widgets.ipynb` notebook ([static rendering on github](executed-notebooks/2-widgets-executed.ipynb), [interactive execution on Binder](https://mybinder.org/v2/gh/fangohr/jupyter-demo/master?filepath=2-widgets.ipynb)).
+
+## Versions
+
+The most recent version of this repository is located at https://github.com/fangohr/jupyter-demo.
